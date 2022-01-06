@@ -1,0 +1,2 @@
+# go-lang
+getting started 
